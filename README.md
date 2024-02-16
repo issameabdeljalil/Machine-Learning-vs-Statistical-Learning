@@ -6,6 +6,7 @@ le bon fonctionnement du programme.
 Les différents scripts doivent être lancé depuis le dossier Code (en tant que répertoire de travail).
 
 # Dossiers et fichiers -------------------------------------------------------------------------
-Code final.sas: Script contenant le code de la partie 2
-diabetes stat des +methodes.sas: Script contenant le code de la partie 3
-SAS_Project_Abdeljalil_Sopguombue_Marzouk.pdf: Rapport LaTeX sur le mémoire 
+Code final.sas: Script contenant le code de la partie 2  
+diabetes stat des +methodes.sas: Script contenant le code de la partie 3  
+SAS_Project_Abdeljalil_Sopguombue_Marzouk.pdf: Rapport LaTeX sur le mémoire  
+Mémoires S1 2023-2024 : Sujets de Mémoire 
